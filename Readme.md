@@ -27,3 +27,11 @@ DDD is a way of organize and structure a Software so that the classes, methods m
 - Generic Subdomain
     - Support the core domain too, but don't have competitive differential
  
+# Problem vs Solution
+
+## Problem
+- Overview of domain and your complexities
+- Separate the domain in subdomains
+
+## Solution
+- Analyze and to model the domain -> subdomain delimiteds
