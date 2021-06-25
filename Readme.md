@@ -35,3 +35,7 @@ DDD is a way of organize and structure a Software so that the classes, methods m
 
 ## Solution
 - Analyze and to model the domain -> subdomain delimiteds
+
+# Bounded Contexts
+> Bounded Contexts is an explicit boundary within which a domain model exists. Inside the boundary all terms and phrases of the Ubiquitous Language have specific meaning, and the model reflects the Language with exactness.
+
