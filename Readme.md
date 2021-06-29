@@ -39,3 +39,7 @@ DDD is a way of organize and structure a Software so that the classes, methods m
 # Bounded Contexts
 > Bounded Contexts is an explicit boundary within which a domain model exists. Inside the boundary all terms and phrases of the Ubiquitous Language have specific meaning, and the model reflects the Language with exactness.
 
+## Transversal Elements
+![](context.png "Context Example")
+
+Above, the "Cliente" is a Transversal Element because he is associated with two context. However, he is deal with different things depending of context
